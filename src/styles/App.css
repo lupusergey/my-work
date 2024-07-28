@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.App{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.post{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 2px solid;
+    margin-top: 10px;
+}
